@@ -166,5 +166,7 @@ k = 5
 #num_samples = 20
 
 Run = K_Means(k, dimension, data)
+# edit
+print("Hello World")
 
 Run.Do()
